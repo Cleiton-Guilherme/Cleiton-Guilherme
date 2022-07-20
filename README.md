@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+  🎓Atualmente cursando Desenvolvimento web Java Jr - Generation Brasil Turma 56, 06/2022 - 10/2022
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: (Ele/Dele/He)
 - ⚡ Fun fact: ...
--->🎓Atualmente cursando Desenvolvimento web Java Jr - Generation Brasil Turma 56, 06/2022 - 10/2022 🌱 Atualmente estou estudando testes automatizados com Java e Spring boot. / Currently studying automated tests with Java and Springboot Framework.
-🎓 Turma 50 no Bootcamp "Pessoa Desenvolvedora Web - Generation Brasil 03/2022~ 06/2022". / Student of Class 50 at Bootcamp "People Developer Web - Generation Brazil 2022/03 - 2022/06".
-🎓Bootcamp SpringBoot DevSuperior - Profº Nelio Alves.
-😄 Pronouns: (Ele/Dele/He)
+-->
