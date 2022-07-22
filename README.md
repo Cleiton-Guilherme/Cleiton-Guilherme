@@ -5,16 +5,8 @@
 - 🌱 Estudando Java
 - 😄 Pronouns: (Ele/Dele/He)
 - ⚡ Fun fact:
-javascript logo typescript logo react logo java logo spring logo flutter logo bootstrap logo css3 logo git logo nodejs logo gitlab logo heroku logo html5 logo jira logo mongodb logo mysql logo npm logo oracle logo slack logo microsoftsqlserver logo tomcat logo trello logo
 
-
-
-
-
-
-
-
-
+https://wwww.linkedin.com/in/cleitonguilherme
 
 
 
