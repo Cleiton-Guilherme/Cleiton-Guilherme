@@ -5,7 +5,7 @@
 - 🌱 Estudando Java
 - 😄 Pronouns: (Ele/Dele/He)
 - ⚡ Fun fact:
-- https://wwww.linkedin.com/in/cleitonguilherme
+- https://www.linkedin.com/in/cleiton-g-698bb8174?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDckKKQ16QWCKT6%2B4NqcKvw%3D%3D
 
 
 
