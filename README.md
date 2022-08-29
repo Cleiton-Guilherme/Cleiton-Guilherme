@@ -2,13 +2,8 @@ Olá! Eu sou Cleiton 👋
 🔭 Estou em busca de uma vaga de desenvolvedor junior.
 🌱 Estudando: Java
 😄 Pronomes: Ele/dele
-- 📫 How to reach me **cleiton.guilherme@yahoo.com.br**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cleiton-guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="cleiton-guilherme" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleiton-guilherme" alt="cleiton-guilherme" /></a> </p>
-
-- 📫 How to reach me **cleiton.guilherme@yahoo.com.br**
+- 📫 How to reach me **cleiton.guilherme@yahoo.com.br*
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
