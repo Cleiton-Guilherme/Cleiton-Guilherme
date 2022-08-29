@@ -1,7 +1,10 @@
 Olá! Eu sou Cleiton 👋
-🔭 Estou em busca de uma vaga de desenvolvedor junior.
-🌱 Estudando: Java
-😄 Pronomes: Ele/dele
+- 🔭 Estou em busca de uma vaga de desenvolvedor junior.
+
+- 🌱 Estudando: Java
+
+- 😄 Pronomes: Ele/dele
+
 - 📫 How to reach me **cleiton.guilherme@yahoo.com.br*
 - 
 
