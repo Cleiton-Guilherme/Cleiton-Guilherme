@@ -1,5 +1,5 @@
 Olá! Eu sou Cleiton 👋
-- 🔭 Estou em busca de uma vaga de desenvolvedor junior.
+- 🔭 Estou em busca de uma vaga como desenvolvedor junior.
 
 - 🌱 Estudando: Java
 
