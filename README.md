@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Cleiton</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+Olá! Eu sou Cleiton 👋
+🔭 Estou em busca de uma vaga de desenvolvedor junior.
+🌱 Estudando: Java
+😄 Pronomes: Ele/dele
+- 📫 How to reach me **cleiton.guilherme@yahoo.com.br**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cleiton-guilherme&label=Profile%20views&color=0e75b6&style=flat" alt="cleiton-guilherme" /> </p>
 
