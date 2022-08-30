@@ -1,4 +1,4 @@
-Olá! Eu sou Cleiton 👋
+Olá! Eu eu sou o Cleiton 👋
 - 🔭 Estou em busca de uma vaga como desenvolvedor junior.
 
 - 🌱 Estudando: Java
