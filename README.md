@@ -20,9 +20,7 @@ Olá! Eu eu sou o Cleiton 👋
 <a href="https://discord.gg/Cleiton Guilherme#8159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cleiton Guilherme#8159" height="30" width="40" /></a>
 </p>
 
- <a href="https://www.linkedin.com/in/cleiton-Guilherme/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
- <a href="https://instagram.com/cleiton_sillva3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/cleiton-Guilherme/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/cleiton_sillva3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact" alt="cleiton-guilherme" /></p>
 
