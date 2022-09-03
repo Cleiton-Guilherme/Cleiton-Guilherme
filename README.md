@@ -20,7 +20,7 @@ Olá! Eu eu sou o Cleiton 👋
 
  <a href="https://www.linkedin.com/in/cleiton-Guilherme/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/cleiton_sillva3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://discord.com/channels/988429115545759764/988429115919048715" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:cleiton.sillva81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dracula" alt="cleiton-guilherme" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&theme=dracula" alt="cleiton-guilherme" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dracula" alt="cleiton-guilherme" /></p> <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&theme=dracula" alt="cleiton-guilherme" /></a>
+ 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cleiton-guilherme" /></p>
 
