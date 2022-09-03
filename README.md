@@ -24,7 +24,7 @@ Olá! Eu eu sou o Cleiton 👋
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dracula" alt="cleiton-guilherme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&" alt="cleiton-guilherme" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&theme=dracula" alt="cleiton-guilherme" /></p>
 
 div align="center">
   <a href="https://github.com/Cleiton-Guilherme">
