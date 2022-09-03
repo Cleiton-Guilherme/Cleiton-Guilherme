@@ -22,16 +22,16 @@ Olá! Eu eu sou o Cleiton 👋
  
  ###
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dracula" alt="cleiton-guilherme" /></p> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dracula" alt="cleiton-guilherme" /> 
 </div>
 
  ###
 <div align="center">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&theme=dracula" alt="cleiton-guilherme" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleiton-guilherme&theme=dracula" alt="cleiton-guilherme" />
 </div>
   
   ###
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cleiton-guilherme" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cleiton-guilherme" />
 </div>
 
