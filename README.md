@@ -25,6 +25,6 @@ Olá! Eu eu sou o Cleiton 👋
 
 ###
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cleiton-guilherme" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cleiton-guilherme" /></p>
 </div>
 
