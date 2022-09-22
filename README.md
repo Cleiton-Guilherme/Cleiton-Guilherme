@@ -8,7 +8,7 @@ Meu nome é Cleiton é:
 
 💻Estou Trabalhando/Estudando com Desenvolvimento Java (Spring Framework).
 
-🎓Atualmente conclui minha formação Dev.Full Stack. jR.
+🎓Atualmente conclui minha formação como Dev.Full Stack. jR.
 
 
 <h3 align="left">Languages and Tools:</h3>
