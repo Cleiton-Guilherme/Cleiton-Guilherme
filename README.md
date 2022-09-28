@@ -1,14 +1,14 @@
 Olá!👋Bem-vindo ao meu perfil:
 
-Meu nome é Cleiton é:
+😉 Meu nome é Cleiton é:
 
 🎉Bem-vindo ao meu perfil do Github
 
-😃eu gosto muito de aprender
+😃 Gosto muito de aprender
 
 💻Estou/Estudando com Desenvolvimento Java (Spring Framework).
 
-🎓Atualmente conclui minha formação como Dev.Full Stack. jR.
+🎓Atualmente Conclui minha formação como Dev.Full Stack. jR.
 
 
 <h3 align="left">Languages and Tools:</h3>
