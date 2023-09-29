@@ -6,8 +6,6 @@ Olá!👋Bem-vindo ao meu perfil:
 
 😉 Meu nome é Cleiton é:
 
-🎉Bem-vindo ao meu perfil do Github
-
 😃 Gosto muito de aprender
 
 💻Estou/Estudando com Desenvolvimento Java (Spring Framework).
