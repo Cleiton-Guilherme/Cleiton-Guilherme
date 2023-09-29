@@ -12,7 +12,7 @@ Olá!👋Bem-vindo ao meu perfil:
 
 🎓Conclui minha formação como Desenvolvedor Full Stack. jR Pela Generation Brasil.
 
-🎓Atualmente Estudando no Programa Full Stack da Ilia em Parceria com Italents.
+📚Atualmente Estudando Desenvolvimento Full Stack da Ilia em Parceria com Italents.
 
 
 
