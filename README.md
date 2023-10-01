@@ -25,17 +25,23 @@ Olá!👋Bem-vindo ao meu perfil:
 <p align="left">
 
  <a href="https://www.linkedin.com/in/cleiton-Guilherme/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/cleiton_sillva3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://discord.gg/Cleiton Guilherme#8159" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href = "mailto:cleiton.sillva81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleiton-guilherme&show_icons=true&locale=en&theme=dark" alt="cleiton-guilherme" />
-
-<div align="center">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleiton-guilherme&show_icons=true&locale=en&layout=compact&theme=dark" alt="cleiton-guilherme" /></p>
-</div>
-
-![Snake animation](https://github.com/Cleiton-Guilherme/Cleiton-Guilherme/blob/output/github-contribution-grid-snake.svg)
 
 ###
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=790b76115ea189be21ad3089ff8adfc1b39bcd1591246249&rid=giphy.gif&ct=g" />
+  <img src="https://github.com/Cleiton-Guilherme/Cleiton-Guilherme/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true&username=Cleiton-Guilherme" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true&username=Cleiton-Guilherme" height="150" alt="languages graph"  />
+</div>
+
+
+###
+<div align="center">
+ <img height="200" src="https://media0.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=790b76115ea189be21ad3089ff8adfc1b39bcd1591246249&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
