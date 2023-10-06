@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Cleiton+Guilherme!;But+you+can+call+me+Cleiton!;I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 Olá!👋Bem-vindo ao meu perfil:
 
 😉 Meu nome é Cleiton é:
@@ -13,7 +15,6 @@ Olá!👋Bem-vindo ao meu perfil:
 🎓Conclui minha formação como Desenvolvedor Full Stack. jR Pela Generation Brasil.
 
 📚Atualmente Estudando Desenvolvimento Full Stack da Ilia em Parceria com Italents.
-
 
 
 <h3 align="left">Languages and Tools:</h3>
