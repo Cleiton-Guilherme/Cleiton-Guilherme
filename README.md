@@ -12,7 +12,7 @@ Olá!👋Bem-vindo ao meu perfil:
 
 💻Estou/Estudando com Desenvolvimento Java (Spring Framework).
 
-🎓Conclui minha formação como Desenvolvedor Full Stack. jR Pela Generation Brasil.
+🎓Conclui minha formação como Desenvolvedor Full Stack. jr Pela Generation Brasil.
 
 📚Atualmente Estudando Desenvolvimento Full Stack da Ilia em Parceria com Italents.
 
