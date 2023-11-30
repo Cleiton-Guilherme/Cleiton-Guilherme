@@ -19,10 +19,6 @@ Olá!👋Bem-vindo ao meu perfil:
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Cleiton-Guilherme/count.svg?"  />
-</div>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <div >
