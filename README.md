@@ -17,10 +17,8 @@ Olá!👋Bem-vindo ao meu perfil:
 📚Conclui minha especialização em Desenvolvimento Full Stack na Ilia em Parceria com a Italents.
 
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
+
 
 <div >
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
