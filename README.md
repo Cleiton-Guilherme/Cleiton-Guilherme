@@ -7,8 +7,6 @@
 
 Olá!👋Bem-vindo ao meu perfil:
 
-😉 Meu nome é Cleiton é:
-
 😃 Gosto muito de aprender
 
 💻Estou Estudando Desenvolvimento Java (Spring Framework).
