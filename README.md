@@ -49,7 +49,7 @@ Olá!👋Bem-vindo ao meu perfil:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-guilherme-/)](https://www.linkedin.com/in/cleiton-guilherme-/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-guilherme-/)](https://www.linkedin.com/in/cleiton-guilherme/)
  
 <div align="center">
   <img src="https://github.com/Cleiton-Guilherme/Cleiton-Guilherme/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
